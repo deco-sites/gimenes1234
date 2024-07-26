@@ -34,7 +34,6 @@ deno task update
 ## Help
 
 - 📚 [Docs](https://www.deco.cx/docs/en/overview)
-- 
 
 - 🚨 [Troubleshooting](https://deco.cx/docs/en/reference/troubleshooting)
 
