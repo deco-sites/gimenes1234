@@ -1,3 +1,5 @@
+//ok
+
 import daisyui from "daisyui";
 
 export default {
