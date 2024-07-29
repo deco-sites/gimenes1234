@@ -3,6 +3,8 @@ import plugins from "https://cdn.jsdelivr.net/gh/deco-sites/std@1.26.5/plugins/m
 import manifest from "./manifest.gen.ts";
 import tailwind from "./tailwind.config.ts";
 
+// asdas d
+
 export default defineConfig({
   plugins: plugins({
     manifest,
