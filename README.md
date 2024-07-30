@@ -1,5 +1,5 @@
 
-e agora, o que acontece com conflitos?
+doidera
 # Start — deco.cx template 
 
 Welcome to your [deco.cx](https://deco.cx) site!
