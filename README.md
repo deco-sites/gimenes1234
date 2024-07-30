@@ -1,3 +1,5 @@
+
+e agora, o que acontece com conflitos?
 # Start — deco.cx template 
 
 Welcome to your [deco.cx](https://deco.cx) site!
@@ -5,8 +7,6 @@ Welcome to your [deco.cx](https://deco.cx) site!
 ## Usage
 
 1 - [Install deno](https://docs.deno.com/runtime/manual/getting_started/installation/)
-
-
 
 2 - Run the command
 
