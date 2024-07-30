@@ -1,5 +1,3 @@
-
-
 # Start — deco.cx template 
 
 Welcome to your [deco.cx](https://deco.cx) site!
@@ -51,4 +49,5 @@ We are working on the instructions, for now feel free to contribute to this proj
 Take a look on this ones:
 - [deco](https://github.com/deco-cx/deco/)
 - [apps](https://github.com/deco-cx/apps/)
+
 
