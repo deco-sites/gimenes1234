@@ -1,1 +1,15 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"Footer"},{"__resolveType":"site/sections/ItWorks.tsx","name":"<p>It Works! massa mesmo!</p>","count":1}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "site/sections/ItWorks.tsx",
+      "name": "<p>It Works! massa mesmo!</p>",
+      "count": 1
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
